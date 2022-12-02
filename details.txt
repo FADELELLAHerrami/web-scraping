@@ -1,0 +1,30 @@
+    nvm signifie node version manager , est un programme qui nous aidera à utiliser plus d'une version de nodejs
+sur notre système .
+
+    Pourqui avoir besoin de nvm ??
+imaginez que votre développeur javascript veux gérer de nombreux projets qui ont de nombreuse 
+versions de nodejs ; et bien c'est la raison pour laquelle nous devons utliser nvm ,
+vous n'aver pas le besoin de réinstaller la version de node js à chaque fois que vous travailler 
+sur un projet différent .
+
+    Cherrio is a package that we will be using to essentially pick out html
+elements on aweb page ; it works by passing markup and provides an api for traversing
+and manipulating the resulting data structure .
+cheerio's selector implementation is nearly identical to jquery ;
+if you know jquery ,this might e familiar to you.
+
+    axios is a promise based http client for the browser and nodejs .
+ axios makes it easy to send http requests to rest endpoints and perform cud oprations ,
+this means that we can use post,get,put,delete data ,it is very popular package .
+ axios works by passing throgh a url and it visits the url and then get the response from it .
+
+
+    The fetch api essetially provides a javascript interface for accessing and manipuling parts of http 
+pipeline such as requests and responses 
+    
+    corse is nodejs package providing a connect express middleware that can be used to enable calls
+with various options . 
+
+
+
+
